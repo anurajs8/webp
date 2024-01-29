@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "lab-01-first-webpart-client-side-solution",
+    "id": "4c807b87-2a5c-49ae-a5b9-9db2773cd4ca",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/lab-01-first-webpart.sppkg"
+  }
+}

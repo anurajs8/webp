@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "lab-01-first-webpart",
+    "libraryId": "4c807b87-2a5c-49ae-a5b9-9db2773cd4ca",
+    "environment": "spo"
+  }
+}
